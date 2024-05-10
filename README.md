@@ -28,7 +28,7 @@
     | Ino Yamanaka   | Ino Yamanaka is a member of Team 10 and Yamanaka Clan. |
     | Asuma Sarutobi | Asuma Sarutobi was the leader of Team 10. |
     | Rock Lee       | Rock Lee is a member of Team Guy and the favorite student of team leader Might Guy. |
-    | Neji Hyuga     | Neji Hyuga was a member of Team Guy and a child prodigy of the Hyuga clan, as well as Hinata's cousin. |
+    | Neji Hyuga     | Neji Hyuga was a member of Team Guy and a child prodigy of the Hyuga clan. |
     | Tenten         | Tenten is a member of Team Guy. |
     | Might Guy      | Might Guy is the leader of Team Guy who dedicates most of his time to his pupil Rock Lee. |
 
