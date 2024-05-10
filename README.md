@@ -13,7 +13,7 @@
 
 
     | Main Characters: | Description |
-    |------------------|-------------|
+    | ---------------- | ----------- |
     | Naruto Uzumaki | Naruto is a natural prankster and troublemaker. |
     | Sasuke Uchiha  | Sasuke Uchiha is Naruto's rival and best friend. |
     | Sakura Haruno  | Sakura is a member of Team 7. |
@@ -32,6 +32,4 @@
     | Tenten         | Tenten is a member of Team Guy. |
     | Might Guy      | Might Guy is the leader of Team Guy who dedicates most of his time to his pupil Rock Lee. |
 
-
  ![Naruto!](images1.png)  
-    
