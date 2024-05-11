@@ -11,7 +11,7 @@
 |------------|------|
 |Naruto Uzumaki| Naruto is a natural prankster and troublemaker.|
 |Sasuke Uchiha | Sasuke Uchiha is Naruto's rival and best friend.|
-|Sasuke Uchiha| Sakura is a member of Team 7.|
+|Sakura Haruno| Sakura is a member of Team 7.|
 |Kakashi Hatake| Kakashi Hatake is the easygoing, smart leader of team 7.|
 |Hinata Hyuga|Hinata Hyuga is a member of Team 8 who suffers from a lack of self-confidence.|
 |Kiba Inuzuka| Kiba Inuzukais a member of Team 8 from the Inuzuka Clan.|
