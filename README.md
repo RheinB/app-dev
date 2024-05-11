@@ -33,9 +33,9 @@
 
 
 
-## Devils Fruit
+## Beast
 
-![One Piece!](Image1.jpg.png)
+![Naruto!](Beast1.jpg)
 
 ## In the anime and manga series "One Piece" created by Eiichiro Oda, there are a variety of Devil Fruits that grant their users unique powers and abilities. Here's a list of Devil Fruits categorized by their types:
 
