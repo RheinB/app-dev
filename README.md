@@ -33,11 +33,11 @@
 
 
 
-## Beast
+## Tailed Beast
 
 ![Naruto!](Beast1.jpg)
 
-## In the anime and manga series "One Piece" created by Eiichiro Oda, there are a variety of Devil Fruits that grant their users unique powers and abilities. Here's a list of Devil Fruits categorized by their types:
+## The tailed beasts are a group of nine gigantic beings made of incomparable amounts of chakra, the source of power in Naruto. Originally, they were part of an even larger creature known as the Ten-Tails until the legendary Sage of Six Paths divided the being's chakra into nine separate, sentient creatures. Thus, the tailed beasts were born. Each of them is differentiated by the number of tails that they possess, ranging from one to nine. In addition to their differing tail numbers, each tailed beast also has a distinct design inspired by different animals and mythical creatures. But despite their bestial appearance, the tailed beasts are intelligent and capable of conversing with humans and one another through telepathy. Here are the nine-tailed beast in naruto series:
 
 ## Paramecia: 
 These Devil Fruits grant a wide range of abilities, often altering the user's body or manipulating their surroundings.
