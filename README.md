@@ -56,4 +56,3 @@
 
 # Clan in Naruto Series
 ![Naruto!](symbols.jpg) 
-
