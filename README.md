@@ -15,58 +15,24 @@
 |Naruto Uzumaki| Naruto is a natural prankster and troublemaker.|
 |Sasuke Uchiha | Sasuke Uchiha is Naruto's rival and best friend.|
 |Sasuke Uchiha| Sakura is a member of Team 7.|
-|Kakashi Hatake| Hinata Hyuga is a member of Team 8 who suffers from a lack of self-confidence.|
-|Hinata Hyuga|The cook with powerful legs and mastery in martial arts.|
-|Kiba Inuzuka| The doctor and a reindeer with a Devil Fruit ability.|
-|Akamaru| The archaeologist with the ability to sprout multiple body parts.|
-|Shino Aburame| The shipwright and cyborg with a knack for inventions.|
-|Kurenai Yuhi| The musician and swordsman, a living skeleton with a Devil Fruit ability.|
-|Shikamaru Nara| A fish-man and expert helmsman.|
-|Ino Yamanaka| Naruto is a natural prankster and troublemaker.|
-|Choji Akimichi | The swordsman with a three-sword style.|
-|Asuma Sarutobi| The navigator with exceptional map-making skills.|
-|Rock Lee| The sharpshooter and skilled liar.|
-|Neji Hyuga|The cook with powerful legs and mastery in martial arts.|
-|Tenten| The doctor and a reindeer with a Devil Fruit ability.|
-|Might Guy| The archaeologist with the ability to sprout multiple body parts.|
+|Kakashi Hatake| Kakashi Hatake is the easygoing, smart leader of team 7.|
+|Hinata Hyuga|Hinata Hyuga is a member of Team 8 who suffers from a lack of self-confidence.|
+|Kiba Inuzuka| Kiba Inuzukais a member of Team 8 from the Inuzuka Clan.|
+|Akamaru| Akamaru is Kiba Inuzuka's ninja dog, best friend, and constant companion.|
+|Shino Aburame| Shino Aburame is a member of Team 8 from the Aburame Clan.|
+|Kurenai Yuhi| Kurenai Yuhi is the leader of Team 8.|
+|Shikamaru Nara| Shikamaru Nara is a member of Team 10.|
+|Ino Yamanaka| Ino Yamanaka is a member of Team 10 and Yamanaka Clan.|
+|Choji Akimichi | Choji Akimichi is a member of Team 10, typified by his affinity for food.|
+|Asuma Sarutobi| Asuma Sarutobi was the leader of Team 10.|
+|Rock Lee| Rock Lee is a member of Team Guy and the favorite student of team leader Might Guy.|
+|Neji Hyuga|Neji Hyuga was a member of Team Guy and a child prodigy of the Hyuga clan.|
+|Tenten| Tenten is a member of Team Guy.|
+|Might Guy| Might Guy is the leader of Team Guy who dedicates most of his time to his pupil Rock Lee.|
 
 
     
-    | Sasuke Uchiha | Sakura is a member of Team 7. |
-    | Kakashi Hatake | Kakashi Hatake is the easygoing, smart leader of team 7. |
-    | Hinata Hyuga   | Hinata Hyuga is a member of Team 8 who suffers from a lack of self-confidence. |
-    | Kiba Inuzuka   | Kiba Inuzukais a member of Team 8 from the Inuzuka Clan. |
-    | Akamaru        | Akamaru is Kiba Inuzuka's ninja dog, best friend, and constant companion. |
-    | Shino Aburame  | Shino Aburame is a member of Team 8 from the Aburame Clan. |
-    | Kurenai Yuhi   | Kurenai Yuhi is the leader of Team 8. |
-    | Shikamaru Nara | Shikamaru Nara is a member of Team 10. |
-    | Choji Akimichi | Choji Akimichi is a member of Team 10, typified by his affinity for food. |
-    | Ino Yamanaka   | Ino Yamanaka is a member of Team 10 and Yamanaka Clan. |
-    | Asuma Sarutobi | Asuma Sarutobi was the leader of Team 10. |
-    | Rock Lee       | Rock Lee is a member of Team Guy and the favorite student of team leader Might Guy. |
-    | Neji Hyuga     | Neji Hyuga was a member of Team Guy and a child prodigy of the Hyuga clan. |
-    | Tenten         | Tenten is a member of Team Guy. |
-    | Might Guy      | Might Guy is the leader of Team Guy who dedicates most of his time to his pupil Rock Lee. |
-# Anime Series: One Piece
 
-![One Piece!](Image.jpg.jpg)
-
-## Story all About?
-### "One Piece" is an epic tale of adventure, friendship, and the pursuit of dreams set in a vast world dominated by the sea. The story follows the journey of Monkey D. Luffy, a spirited young pirate with the ambitious goal of becoming the Pirate King by finding the legendary treasure known as One Piece. Alongside his diverse and loyal crew, the Straw Hat Pirates, Luffy sets sail across treacherous oceans, encountering rival pirates, formidable foes, and enigmatic islands teeming with both wonders and dangers. As they navigate the perils of the Grand Line and confront the oppressive forces of the World Government, the Straw Hats forge unbreakable bonds, defy impossible odds, and stand firm in their quest to chart their own destinies. Fueled by themes of freedom, justice, and camaraderie, "One Piece" captivates audiences with its vibrant characters, intricate world-building, and gripping storytelling, inspiring readers and viewers alike to embark on an unforgettable journey to discover the true meaning of adventure.
-
-## Characters 
-| Characters | Info |
-|------------|------|
-|Naruto Uzumaki| Naruto is a natural prankster and troublemaker.|
-|Roronoa Zoro | The swordsman with a three-sword style.|
-|Nami| The navigator with exceptional map-making skills.|
-|Usopp| The sharpshooter and skilled liar.|
-|Sanji|The cook with powerful legs and mastery in martial arts.|
-|Tony Tony Chopper| The doctor and a reindeer with a Devil Fruit ability.|
-|Nico Robin| The archaeologist with the ability to sprout multiple body parts.|
-|Franky| The shipwright and cyborg with a knack for inventions.|
-|Brook| The musician and swordsman, a living skeleton with a Devil Fruit ability.|
-|Jinbe| A fish-man and expert helmsman.|
 
 
 ## Devils Fruit
